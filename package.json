@@ -1,0 +1,16 @@
+{
+  "name": "mcdates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-material": "^1.1.7",
+    "moment": "^2.21.0"
+  }
+}
